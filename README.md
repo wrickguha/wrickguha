@@ -1,12 +1,26 @@
-<h1 align="center">Hi 👋! My name is Pratik Guha... and I'm a AI Engineer, from India</h1>
+<h1 align="center">Hi 👋! My name is Pratik Guha... I'm from India</h1>
 
 ###
-
+<h3 align="center">I am an AI Engineer</h3>
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
 </div>
 
 ###
+# 💫 About Me:
+
+- 🌱 I’m currently learning **React**
+
+- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning**
+
+- 💬 Ask me about **Machine Learning**
+
+- 📫 How to reach me **wrickguha2003@gmail.com**
+
+- ⚡ Fun fact : I play Chess, I play Kalimba, I read Books
+
+
+# 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -54,24 +68,28 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
+# 🌐 Socials:
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pratik-guha-54195b214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-guha-54195b214/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/wrickguha2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/wrickguha2003/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/wrickguha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/wrickguha/" height="30" width="40" /></a>
+</p>
 
 ###
+
+# 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wrickguha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wrickguha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wrickguha/wrickguha/output/snake.svg" alt="Snake animation" />
 
 ###
 
