@@ -152,7 +152,7 @@ A production-deployed web application for a Valencia-based culinary experience b
 
 A multi-functional platform offering both product listings and service bookings, with an integrated **Razorpay** payment gateway. Built end-to-end with a focus on clean UX, scalable database design, and secure transactions.
 
-🔗 **Live:** [magenta-newt-861501.hostingersite.com](https://winkelkart.com/)
+🔗 **Live:** [winkelkart.com](https://winkelkart.com/)
 
 `Laravel` `PHP` `MySQL` `Razorpay API` `Bootstrap` `JavaScript`
 
