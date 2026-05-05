@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Pratik Guha</h1>
-<h3 align="center">Full Stack Developer &nbsp;|&nbsp; AI/ML Enthusiast &nbsp;|&nbsp; Laravel &nbsp;|&nbsp; Java &nbsp;|&nbsp; Shopify &nbsp;|&nbsp; DevOps Learner</h3>
+<h3 align="center">Full Stack Developer &nbsp;|&nbsp; AI/ML Enthusiast &nbsp;|&nbsp; Laravel &nbsp;|&nbsp; Python &nbsp;|&nbsp; Shopify &nbsp;|&nbsp; DevOps Learner</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wrickguha&style=flat-square&color=blue" alt="Profile Views" />
