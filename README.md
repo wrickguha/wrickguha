@@ -182,6 +182,10 @@ Outside of coding, I'm a curious person who enjoys **technology, history, geogra
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <div align="center">
   <i>💡 Open to collaborations on full-stack projects, AI integrations, and open-source contributions!</i>
 </div>
+---
