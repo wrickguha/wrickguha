@@ -16,13 +16,17 @@
 
 ## 💫 About Me
 
-I'm a **Full Stack Developer** from India 🇮🇳 who builds real-world, production-grade applications — from e-commerce platforms with integrated payment systems to AI-powered tools. I'm passionate about creating **scalable, efficient systems** that solve genuine problems.
+I'm a **Full Stack Web Developer** from India 🇮🇳 currently working as a **Core PHP Web Developer at TechnoDG**. I enjoy building real-world web applications, working with backend systems, databases, APIs, and modern frontend technologies.
 
-My work spans backend engineering with **Laravel, Django & FastAPI**, frontend development with **React**, and AI/ML integration using Python. I believe in writing clean code, learning continuously, and shipping products that actually work.
+My primary experience is with **PHP, Core PHP, Laravel, MySQL, JavaScript, and React**, along with **Django, FastAPI, and Python**. I've worked on projects ranging from **e-commerce platforms and school management systems to custom web applications and AI/ML projects**.
+
+I'm passionate about understanding how things work under the hood, writing clean and maintainable code, and continuously improving my skills by building things. I enjoy turning ideas into **functional, scalable, and useful products**.
+
+Outside of coding, I'm a curious person who enjoys **technology, history, geography, music, chess, books, films, and travelling**. 🌍
 
 - 🔭 Currently working on: Building and maintaining web applications at TechnoDG, primarily using Core PHP, MySQL, JavaScript, HTML &     CSS.
 - 🤝 Looking to collaborate on: Interesting open-source projects, full-stack web applications, Laravel/React projects, APIs, and practical AI/ML projects.
-- * 📚 Currently learning: Advanced Laravel, React, REST API development, Docker, DevOps, system design, and Data Structures & Algorithms.
+- 📚 Currently learning: Advanced Laravel, React, REST API development, Docker, DevOps, system design, and Data Structures & Algorithms.
 - 🛠️ Currently working on: Improving my full-stack development skills by building Laravel + React applications, backend APIs, and experimenting with Python and AI/ML integrations.
 - ⚡ Fun facts:  Play Chess ♟️, play Kalimba 🎵, love old music & rock 🎸, read Books 📚, watch Films 🎬, and enjoy travelling 🌍.
 - 📫 Reach me at **wrickguha2003@gmail.com**
