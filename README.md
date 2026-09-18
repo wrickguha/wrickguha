@@ -20,11 +20,11 @@ I'm a **Full Stack Developer** from India 🇮🇳 who builds real-world, produc
 
 My work spans backend engineering with **Laravel, Django & FastAPI**, frontend development with **React**, and AI/ML integration using Python. I believe in writing clean code, learning continuously, and shipping products that actually work.
 
-- 🔭 Currently building full-stack apps with **Laravel, Django, FastAPI, and React**
-- 🤖 Integrating **AI/ML** capabilities into real-world web applications
-- 🛒 Developing and customizing **Shopify** stores and checkout flows
-- 🎯 Sharpening **DSA** skills in Java for problem-solving
-- ⚡ Fun facts: I play Chess ♟️, play Kalimba 🎵, and read Books 📚
+- 🔭 Currently working on: Building and maintaining web applications at TechnoDG, primarily using Core PHP, MySQL, JavaScript, HTML &     CSS.
+- 🤝 Looking to collaborate on: Interesting open-source projects, full-stack web applications, Laravel/React projects, APIs, and practical AI/ML projects.
+- * 📚 Currently learning: Advanced Laravel, React, REST API development, Docker, DevOps, system design, and Data Structures & Algorithms.
+- 🛠️ Currently working on: Improving my full-stack development skills by building Laravel + React applications, backend APIs, and experimenting with Python and AI/ML integrations.
+- ⚡ Fun facts:  Play Chess ♟️, play Kalimba 🎵, love old music & rock 🎸, read Books 📚, watch Films 🎬, and enjoy travelling 🌍.
 - 📫 Reach me at **wrickguha2003@gmail.com**
 
 ---
@@ -132,31 +132,6 @@ My work spans backend engineering with **Laravel, Django & FastAPI**, frontend d
 
 > 🔧 Also using: **phpMyAdmin** &nbsp;|&nbsp; Learning: **CI/CD pipelines** and **cloud deployment**
 
----
-
-## 📂 Featured Projects
-
-### 🥘 Paella Experience Valencia
-> **Full-stack restaurant experience & booking platform — Live in Production**
-
-A production-deployed web application for a Valencia-based culinary experience brand. Features a dynamic **React** frontend paired with a robust **Laravel** backend, delivering a smooth, modern user experience — from browsing cooking experiences to managing reservations.
-
-🔗 **Live:** [magenta-newt-861501.hostingersite.com](https://magenta-newt-861501.hostingersite.com/)
-
-`React JS` `Laravel` `PHP` `MySQL` `TailwindCSS` `REST API`
-
----
-
-### 🛒 Winkelkart
-> **Full-stack e-commerce + services platform**
-
-A multi-functional platform offering both product listings and service bookings, with an integrated **Razorpay** payment gateway. Built end-to-end with a focus on clean UX, scalable database design, and secure transactions.
-
-🔗 **Live:** [winkelkart.com](https://winkelkart.com/)
-
-`Laravel` `PHP` `MySQL` `Razorpay API` `Bootstrap` `JavaScript`
-
----
 
 ## 🎯 Current Focus
 
