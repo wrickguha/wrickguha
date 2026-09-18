@@ -148,11 +148,9 @@ Outside of coding, I'm a curious person who enjoys **technology, history, geogra
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wrickguha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wrickguha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=wrickguha&theme=onedark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=wrickguha&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=wrickguha&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
